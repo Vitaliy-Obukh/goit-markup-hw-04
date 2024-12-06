@@ -69,11 +69,11 @@ img {
   margin-bottom: 24px;
 }
 
-.decoration-line {
+/* .decoration-line {
   position: relative;
-}
+} */
 
-.decoration-line::after {
+.decoretion-sumbol::after {
   content: '';
   width: 100%;
   position: absolute;
