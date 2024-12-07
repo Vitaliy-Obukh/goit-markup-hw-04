@@ -69,10 +69,6 @@ img {
   margin-bottom: 24px;
 }
 
-/* .decoration-line {
-  position: relative;
-} */
-
 .decoretion-sumbol::after {
   content: '';
   width: 100%;
@@ -84,8 +80,12 @@ img {
   border-radius: 2px;
 }
 
-.navigation-menu {
+a.decoretion-sumbol {
   color: #404bbf;
+}
+
+.navigation-menu {
+  color: #2e2f42;
   text-decoration: none;
   font-weight: 500;
   font-size: 16px;
